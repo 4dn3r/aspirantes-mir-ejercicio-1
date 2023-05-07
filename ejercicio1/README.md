@@ -5,3 +5,4 @@
 5. Configuramos el nombre usando los comandos git config --global user.name Adner Marin git config --global user.email adnermarin04@gmail.com
 6. Luego usamos el comando git add . (Para agregar archivos en el directorio)
 7. Luego usamos el comando git commit -m "Version Inicial" y le pusimos el mensaje dentro de las comillas.
+8. Luego creé un nuevo commit, usando los comandos git add . git commit -m "Agrega solución primer ejercicio"
